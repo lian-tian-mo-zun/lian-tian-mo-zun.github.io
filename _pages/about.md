@@ -15,11 +15,10 @@ I am Zhou Jingqi, a second-year Ph.D. student in the Department of Computer Scie
 - Large Language Model Agents
 - Data Synthesis for LLMs
 - Multimodal Large Language Models
-- Autonomous Learning and Evolution
 
 ## Main Research Achievements
 
-**TreeSynth** (NeurIPS 2025 Spotlight, co-first author)
+**TreeSynth** (NeurIPS 2025 Spotlight, first author)
 : Proposed a tree-guided diverse data synthesis framework that achieves an average performance improvement of 10% across multiple benchmarks, with data diversity outperforming baselines by 45.2%
 
 **ProReason** (EMNLP 2025, first author)
@@ -35,8 +34,3 @@ I am Zhou Jingqi, a second-year Ph.D. student in the Department of Computer Scie
 - National Scholarship
 - Shanghai Outstanding Graduate
 - Shanghai Rising Star in Science and Technology
-
-## News
-
-- **2025.01**: One paper accepted to NeurIPS 2025 as Spotlight!
-- **2024.10**: One paper accepted to EMNLP 2025!
